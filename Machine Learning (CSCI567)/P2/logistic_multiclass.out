@@ -1,0 +1,15 @@
+Synthetic data: 3 class classification
+One-versus-rest:
+train acc: 0.257143, test acc: 0.240000
+Multinomial:
+train acc: 0.348571, test acc: 0.293333
+Synthetic data: 5 class classification
+One-versus-rest:
+train acc: 0.314286, test acc: 0.306667
+Multinomial:
+train acc: 0.205714, test acc: 0.186667
+MNIST: 10 class classification
+One-versus-rest:
+train acc: 0.578600, test acc: 0.587000
+Multinomial:
+train acc: 0.612400, test acc: 0.605000
