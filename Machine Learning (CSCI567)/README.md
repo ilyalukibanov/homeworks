@@ -5,13 +5,13 @@ This folder contains my Python impementations of different Machine Learning Algo
 #### KNN (knn.py)
 1. Distance function
 2. Label prediction function
-3. Accuracy score computiong function
+3. Accuracy score computing function
 4. Choosing the best k (tuning the hyper-parameter) function
 
 #### Linear Regression (linear_regression.py)
-1. Closed-form solution fuction
+1. Closed-form solution function
 2. Ridge closed-form solution function
-3. Lambda (hyper-parameter) tuning fuction 
+3. Lambda (hyper-parameter) tuning function 
 4. Test errors computing function
 
 ## 2. P2: Logistic Regression, DNN, CNN
@@ -45,7 +45,7 @@ This folder contains my Python impementations of different Machine Learning Algo
 #### Decision Tree (decision_tree.py)
 Split function:
 1. Conditional entropy sub-function
-2. Choose a node based on the entropy to split
+2. Choose a node to split based on entropy 
 3. Split and add children
 
 #### Decision Stump (decision_stump.py)
