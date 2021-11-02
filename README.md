@@ -2,6 +2,14 @@
 
 This folder contains homeworks and project from my PhD and undegraduate classes. See the respective folders for more details.
 
+## Machine Learning
+Topics by assignments:
+1. KNN, Linear Regression
+2. Logistic Regression, DNN, CNN
+3. Decision Tree Classifier, SVM
+4. KMeans, GMM (Gaussian Mixture Models)
+5. PCA, Hidden Markov Model
+
 ## Big Data Econometrics
 Topics by assignments:
 1. Linear Regression, PCA, KMeans
@@ -10,11 +18,3 @@ Topics by assignments:
 
 Project:
 * Causal Random Forest
-
-## Machine Learning
-Topics by assignments:
-1. KNN, Linear Regression
-2. Logistic Regression, DNN, CNN
-3. Decision Tree Classifier, SVM
-4. KMeans, GMM (Gaussian Mixture Models)
-5. PCA, Hidden Markov Model
