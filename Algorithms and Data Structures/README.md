@@ -12,6 +12,7 @@ Part 1:
 8. Trees
 
 Part 2:
+
 0. Part 1 Refreshment
 1. Stacks
 2. Queues, Deques, and Priority Queues
