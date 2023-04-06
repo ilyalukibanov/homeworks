@@ -20,7 +20,9 @@ Project:
 * Causal Random Forest
 
 ## Algorithms and Data Structures 
-Topics by assignments:
+*Topics by assignments*
+
+Part 1:
 1. Complexity, Testing, and Special cases
 2. Linear Search
 3. Sets
@@ -29,3 +31,11 @@ Topics by assignments:
 6. Binary Search
 7. Event Sorting
 8. Trees
+
+Part 2:
+1. Stacks
+2. Queues, Deques, and Priority Queues
+3. Dynamic Programming with One Parameter
+4. Dynamic Programming with Two Parameters
+5. Depth First Search (DFS)
+6. Breadth First Search (BFS)
