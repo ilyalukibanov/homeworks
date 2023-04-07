@@ -24,4 +24,3 @@ Part 2:
 4. Dynamic Programming with Two Parameters
 5. Depth First Search (DFS)
 6. Breadth First Search (BFS)
-* 
