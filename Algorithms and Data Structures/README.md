@@ -1,9 +1,9 @@
 # Algorithms and Data Structures 
 This folder contains my Python homeworks' solutions for https://yandex.ru/yaintern/algorithm-training online classes. 
 
-The first part that was in Fall 2021. This part did not have a formal rating. I solved all the problems and was in top 10-20 fastest solutions for the last 4 assignments. As a result, I was invited for an interview with Yandex.
+The first part was in Fall 2021. That part did not have a formal rating. I solved all the problems and was in top 10-20 fastest accepted solutions for the last 4 assignments. As a result, I was invited for an interview with Yandex.
 
-The second part was in Februrary-March of 2022. I solved all the assigned problems and did well on the final test. As a result, I landed in top 50 amoung amoung more than 4000 particiants in the final rating (the certificate in Russian).
+The second part was in Februrary-March of 2022. I solved all the assigned problems and did well on the final test. As a result, I landed in top 50 among more than 4000 particiants in the final rating (the certificate is in Russian).
 
 Part 1:
 1. Complexity, Testing, and Special cases
